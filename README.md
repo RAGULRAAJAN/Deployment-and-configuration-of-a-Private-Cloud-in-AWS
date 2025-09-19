@@ -1,7 +1,7 @@
 # EX - 4 Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
-Name: RAGUL RAAJAN T
-Reg no: 212223100043
+### Name: RAGUL RAAJAN T
+### Reg no: 212223100043
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
